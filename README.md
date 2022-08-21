@@ -4,6 +4,9 @@
 [![Github Badge](https://img.shields.io/badge/-guilhermelague-gray?style=flat&logo=Github&logoColor=white)](https://github.com/guilhermelague)
 [![Facebook Badge](https://img.shields.io/badge/-guilhermelague-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/guilhermelaguebmx)
 [![Instagram Badge](https://img.shields.io/badge/-guilhermelague-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermelague)
+[![Profile Views](https://komarev.com/ghpvc/?username=guilhermelague&color=red)](https://komarev.com/ghpvc/?username=guilhermelague&color=red)
+[![Followers](https://img.shields.io/github/followers/guilhermelague)](https://img.shields.io/github/followers/guilhermelague)
+[![Stars](https://img.shields.io/github/stars/guilhermelague?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](https://img.shields.io/github/stars/guilhermelague?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)
 
 ## About Me ##
 
@@ -51,6 +54,8 @@ I am a Full Stack Developer from Brazil.
 ### 🔥 My Stats ###
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guilhermelague&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelague&layout=compact&langs_count=7&theme=dark"/>
 
 
 ---
