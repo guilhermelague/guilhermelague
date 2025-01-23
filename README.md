@@ -12,7 +12,7 @@
 
 I am a Full Stack Developer from Brazil.
 
-- 👨🏻‍💻 I’m working as a Software Engineer 2 at roxcode.
+- 👨🏻‍💻 I’m working as a Software Engineer 3 at roxcode.
 - 🖥️ I am a computer engineering student at UERGS.
 - ⚡ In my free time I like to play games, ride bmx, read books and study new technologies.
 
