@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermelague-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelague)
 [![Github Badge](https://img.shields.io/badge/-guilhermelague-gray?style=flat&logo=Github&logoColor=white)](https://github.com/guilhermelague)
-[![Instagram Badge](https://img.shields.io/badge/-guilhermelague-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermelague)
 [![Profile Views](https://komarev.com/ghpvc/?username=guilhermelague&color=red)](https://komarev.com/ghpvc/?username=guilhermelague&color=red)
 [![Followers](https://img.shields.io/github/followers/guilhermelague)](https://img.shields.io/github/followers/guilhermelague)
 [![Stars](https://img.shields.io/github/stars/guilhermelague?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](https://img.shields.io/github/stars/guilhermelague?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)
@@ -11,12 +10,7 @@
 
 # 👋 About Me
 
-I am a **Full Stack Developer from Brazil**, passionate about building scalable systems and learning new technologies.
-
-- 👨🏻‍💻 Software Engineer at **Rodosoft**
-- 🎓 Software Engineering student at **UNINTER**
-- 🚀 Focused on **Backend, APIs, and System Architecture**
-- ⚡ In my free time I enjoy **riding BMX, gaming, reading books and studying technology**
+Passionate about architecture, quality, and the development of functional and elegant software, with over 7 years of experience in software engineering, working on the development of backend, mobile, and web systems, solution architecture, observability, and applications based on Clean Architecture and Domain-Driven Design (DDD).
 
 ---
 
@@ -26,7 +20,7 @@ I am a **Full Stack Developer from Brazil**, passionate about building scalable 
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>
@@ -35,7 +29,7 @@ I am a **Full Stack Developer from Brazil**, passionate about building scalable 
 
 ---
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend (Web & Mobile)
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
@@ -43,6 +37,11 @@ I am a **Full Stack Developer from Brazil**, passionate about building scalable 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>
 </p>
 
 ---
