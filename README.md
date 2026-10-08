@@ -92,6 +92,17 @@ Passionate about architecture, quality, and the development of functional and el
 
 ---
 
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://cdn.simpleicons.org/githubcopilot" title="GitHub Copilot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" title="ChatGPT" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/claude" title="Claude" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/googlegemini" title="Gemini" width="40" height="40"/>
+</p>
+
+---
+
 ### 📊 Productivity
 
 <p>
